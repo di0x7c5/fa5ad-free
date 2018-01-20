@@ -1,6 +1,8 @@
 # Android Drawable Icons
 ### base on Font Awesome 5 Free project (https://fontawesome.com/)
 
+![Activity with FA icons as images](https://github.com/diwanoczko/fa5ad-free/blob/master/images/activity_fa_as_images.png)
+
 Font Awesome 5 Free is a collection of 907 free scalable vector icons easy to use, ceated and maintained by [Dave Gandy](https://github.com/davegandy).
 
 Theese icons are very widley use on many of the websites and are great for prototyping the project mockups or scetchs.
